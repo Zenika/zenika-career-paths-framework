@@ -5,6 +5,7 @@
 - Career Framework at TheTribe : https://trello.com/b/mmIfnc7Q/career-framework-d%C3%A9v-full-stack-thetribe
 - Career Path by Mary Thengvall - Community Builder: https://www.marythengvall.com/blog/2020/6/29/the-camunda-developer-relations-career-path
 - 23 Alternative Career Paths by Karl Hughes: https://www.freecodecamp.org/news/alternative-career-paths/
+- CyberCoders thoughts on Fullstack Developer careers: https://www.cybercoders.com/insights/what-hiring-managers-look-for-in-a-full-stack-developer/
 - Sarah Drasner thoughts:
   - https://css-tricks.com/the-importance-of-career-laddering/
   - https://career-ladders.dev/
