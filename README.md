@@ -23,10 +23,15 @@ The sought outcomes of using our framework were:
 - Help collaborators figure out their Hatarakigai / 働きがい / Worth of Working (or [Ikigai](https://en.wikipedia.org/wiki/Ikigai) if work is part of it)
 - Help them own and shape their career as they see fit
 - Help the organization appreciate and leverage the diversity of profiles with a structured approach
-- Help the organization provide growth support to all collaborators accordingly
+- Help the organization provide adequate growth support to all collaborators accordingly
 
 
 ## Concept
+
+We aimed for the following with our framework:
+- Durable: decouple it from "trendy titles" (e.g. Fullstack Developer, Data Scientist...)
+- Flexible: include all typologies of consultants (e.g. Agile coaches, Architects...) and other staffs (e.g. Accountants, Managing Directors...)
+- Accurate: propose clear ways to develop ourselves in our industry (IT services)
 
 Through multiple iterations, we ended up with a framework with 6 paths where one can grow their impact:
 1. __Practices & their related Domains__: through concrete techniques and knowledge
@@ -69,16 +74,16 @@ This should hopefully give you a first idea of what our framework is. Of course,
 If you are interested in our approach to build a tailored framework for your organization, you may contact us at [info@zenika.com](mailto:info@zenika.com).
 
 If you would like to deep dive further in our own framework, you can:
-1. Start by exploring each path individually:
+- Start by exploring each path individually:
   - [Practices & their related Domains](/paths/practices.md)
   - [Delivery](/paths/delivery.md)
   - [Leadership](/paths/leadership.md)
   - [Business](/paths/business.md)
   - [Architecture](/paths/architecture.md)
   - [Posture](/paths/posture.md)
-2. Check out some career profiles examples:
+- Check out some career profiles examples:
   - COMING SOON
-3. Explore additional resources on the IT career paths topic
+- Explore additional resources on the IT career paths topic
   - [Articles](/resources/articles.md)
   - [Online Talks](/resources/talks.md)
-4. Start a follow-up discussion with us at [info@zenika.com](mailto:info@zenika.com)
+- Start a follow-up discussion with us at [info@zenika.com](mailto:info@zenika.com)
