@@ -79,11 +79,11 @@ If you are interested in our approach to build a tailored framework for your org
 In the meantime, if you would like to deep dive further in our own framework, you can:
 - Start by exploring each path individually:
   - [Practices & their related Domains](/paths/practices.md)
-  - [Delivery](/paths/delivery.md)
-  - [Leadership](/paths/leadership.md)
-  - [Business](/paths/business.md)
+  - [Delivery (COMING SOON)](/paths/delivery.md)
+  - [Leadership (COMING SOON)](/paths/leadership.md)
+  - [Business (COMING SOON)](/paths/business.md)
   - [Architecture](/paths/architecture.md)
-  - [Posture](/paths/posture.md)
+  - [Posture (COMING SOON)](/paths/posture.md)
 - Check out some career profiles examples:
   - COMING SOON
 - Explore additional resources on the IT career paths topic
