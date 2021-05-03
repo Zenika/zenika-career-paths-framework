@@ -26,12 +26,12 @@ The sought outcomes of using our framework were:
 - Help the organization provide adequate growth support to all collaborators accordingly
 
 
-## Concept
+We also aimed to enforce the following aspects:
+- __Durability__: decouple the career paths from "trendy titles" (e.g. Fullstack Developer, Data Scientist...)
+- __Flexibility__: include all typologies of consultants (e.g. Agile coaches, Architects...) and other staffs (e.g. Accountants, Managing Directors...)
+- __Accuracy__: propose clear ways to develop one's career(s) in our industry (IT services)
 
-We aimed for the following with our framework:
-- Durable: decouple it from "trendy titles" (e.g. Fullstack Developer, Data Scientist...)
-- Flexible: include all typologies of consultants (e.g. Agile coaches, Architects...) and other staffs (e.g. Accountants, Managing Directors...)
-- Accurate: propose clear ways to develop ourselves in our industry (IT services)
+## Concept
 
 Through multiple iterations, we ended up with a framework with 6 paths where one can grow their impact:
 1. __Practices & their related Domains__: through concrete techniques and knowledge
@@ -69,11 +69,14 @@ By putting together all of the above, here is an example of a Career Profile for
 
 ![Fictive Java Expert career profile](/images/fictive-java-developer.png)
 
-This should hopefully give you a first idea of what our framework is. Of course, it was written for Zenika collaborators (front-office and back-office staff). As is, it may thus not fit your specific needs.
+This should hopefully give you a first idea of what our framework is! Of course, it was written for Zenika collaborators (front-office and back-office staff). _It may therefore not fit your specific needs as it is_.
 
-If you are interested in our approach to build a tailored framework for your organization, you may contact us at [info@zenika.com](mailto:info@zenika.com).
+Besides, coaching techniques and reflexes are necessary to lead sessions based on the framework.
+We have seen that it usually requires ~2 hours of training with one of our Career Paths coaches + a shadowed session to be comfortable leading sessions independently.
 
-If you would like to deep dive further in our own framework, you can:
+If you are interested in our approach to build a tailored framework for your organization or to run career coaching sessions, you may contact us at [info@zenika.com](mailto:info@zenika.com).
+
+In the meantime, if you would like to deep dive further in our own framework, you can:
 - Start by exploring each path individually:
   - [Practices & their related Domains](/paths/practices.md)
   - [Delivery](/paths/delivery.md)
