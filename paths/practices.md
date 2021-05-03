@@ -30,6 +30,10 @@ We wanted the manipulated terms to be as generic as possible to make them applic
 
 ## Overview
 
+### Steps overview
+
+![Practices and Domains steps overviews](../images/steps-practices-domains.png)
+
 ### Practice Specialist
 
 Practice Specialists use hard-earned experience and accurate insight to maximize their impact when putting their skills to work.
@@ -49,10 +53,6 @@ They can grow in this path by:
 - Diversifying their field experience
 
 ## Steps Details
-
-### Steps overview
-
-![Practices and Domains steps overviews](../images/steps-practices-domains.png)
 
 ### Junior Practitioner
 
