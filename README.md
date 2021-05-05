@@ -21,7 +21,7 @@ Given these, we aimed for a framework that would:
 
 The sought outcomes of using our framework were:
 - Help collaborators figure out their Hatarakigai / 働きがい / Worth of Working (or [Ikigai](https://en.wikipedia.org/wiki/Ikigai) if work is part of it)
-- Help them own and shape their career as they see fit
+- Help them own and craft their career as they see fit
 - Help the organization appreciate and leverage the diversity of profiles with a structured approach
 - Help the organization provide adequate growth support to all collaborators accordingly
 
@@ -73,6 +73,7 @@ This should hopefully give you a first idea of what our framework is! Of course,
 
 Besides, coaching techniques and reflexes are necessary to lead sessions based on the framework.
 We have seen that it usually requires ~2 hours of training with one of our Career Paths coaches + a shadowed session to be comfortable leading sessions independently.
+Some career crafting aspects are covered by the coaches and not the framework itself (e.g. motivators, activators, significance...).
 
 If you are interested in our approach to build a tailored framework for your organization or to run career coaching sessions, you may contact us at [info@zenika.com](mailto:info@zenika.com).
 
@@ -80,7 +81,7 @@ In the meantime, if you would like to deep dive further in our own framework, yo
 - Start by exploring each path individually:
   - [Practices & their related Domains](/paths/practices.md)
   - [Delivery (COMING SOON)](/paths/delivery.md)
-  - [Leadership (COMING SOON)](/paths/leadership.md)
+  - [Leadership](/paths/leadership.md)
   - [Business (COMING SOON)](/paths/business.md)
   - [Architecture](/paths/architecture.md)
   - [Posture (COMING SOON)](/paths/posture.md)
