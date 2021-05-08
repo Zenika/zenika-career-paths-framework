@@ -31,6 +31,16 @@ We also aimed to enforce the following aspects:
 - __Flexibility__: include all typologies of consultants (e.g. Agile coaches, Architects...) and other staffs (e.g. Accountants, Managing Directors...)
 - __Accuracy__: propose clear ways to develop one's career(s) in our industry (IT services)
 
+## What's not covered in the Career Path
+
+The Career cover a long part of our life. Our personnal obectives change during our life. Our strengh, weakness, motivation, satisfaction may change for some of us.
+The Career Path, will not cover iternal motivation that drive our life, neither the (soft) skills required to progress in a path. Motivation aspects are covered in the literature in multiple way : either in the Moving Motivator (Management 3.0), Process.com, ActionTypes,... . The internal motivation aspect is an important point because this is a key factor to be in 'energy' in our daily activity.
+The skills required to enhance our capacability are discribed often as soft skill, therm largely miseused, but you can go back to the origin in this [document](https://code.joejag.com/2018/the-origin-of-soft-skills.html#:~:text=It%20turns%20out%20%27soft%20skills,how%20the%20group%20was%20led), you may find a list of skills [here](https://www.thebalancecareers.com/what-are-soft-skills-2060852).
+
+As example, the [Gallup](https://www.gallup.com) approach, may help to link your skills to the capacity you want to devellop, Process.com may help you to identify if the path will be natural or more challanging for you, and may give you some hints on how to use some motivation drivers to succeed in your learning.
+
+
+
 ## Concept
 
 Through multiple iterations, we ended up with a framework with 6 paths where one can grow their impact:
@@ -41,7 +51,7 @@ Through multiple iterations, we ended up with a framework with 6 paths where one
 5. __Architecture__: through leading construction work
 6. __Posture__: through positively influencing one's ecosystem
 
-And since we need to introduce the idea of "growth", steps or milestones are defined for each path. 
+And since we need to introduce the idea of "growth", steps or milestones are defined for each path.
 
 This led to the following model:
 
