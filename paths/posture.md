@@ -4,13 +4,13 @@
 
 The Posture path focuses on personnal capacities.
 
-_Posure_ is may be the most difficult to explain, as it's covered largelly in the litterature, and the word have so many meaning depending on the author.
+_Posure_ is may be the most difficult to explain, as it's covered largelly in the litterature, and the word have so many meaning depending on the author. So, we tried to clarify what we call _posture_ in our context.
 
-_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state.
+_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
 
-However, they always require the same strong foundation to steer teams:
-- Ability to listen
-- Ability to teach and learn
+However, this requires the same strong foundation :
+- Ability to listen and learn
+- Ability to teach and explain
 - Ability to empower and contribute
 - Ability to summarize and took decision
 - Ability to set up feedback loops and other communication channels
@@ -21,6 +21,8 @@ From an operational standpoint, _the posture_ will help us to usually:
 - Get continuous feedback to adjust the posture we use in the context
 
 ## Overview
+
+The _posture_ will reflect our ability to have the good behavior, to use the rigth tools at the ritgh moment, with the good persons.  The objective is to find de good balance between listening, helping and acting.
 
 ### Steps overview
 
@@ -73,12 +75,12 @@ The first step, _lecturer_, is the ability to deliver a knowledge, but the _trai
 
 ### Coach
 
-The coach, is the personn who have the capacity to use one of the previous posture in order to acheive his objective.
+The _coach_, is the personn who have the capacity to use one of the previous posture in order to acheive his objective.
 He has the control of the posture, and use it on purpose.
 
 ### Influencer
 
-As the previous paths, we values the capacities to share he knowledge.
+As the previous paths, we values the capacities to share he knowledge. So, in our path, the capacity to share, promote a knowledge or  a practice, with a deep analasys on how it works and why, may have a significant impact.
 
 
 
