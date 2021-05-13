@@ -31,13 +31,24 @@ We also aimed to enforce the following aspects:
 - __Flexibility__: include all typologies of consultants (e.g. Agile coaches, Architects...) and other staffs (e.g. Accountants, Managing Directors...)
 - __Accuracy__: propose clear ways to develop one's career(s) in our industry (IT services)
 
-## What's not covered in the Career Path
 
-The Career cover a long part of our life. Our personnal obectives change during our life. Our strengh, weakness, motivation, satisfaction may change for some of us.
-The Career Path, will not cover iternal motivation that drive our life, neither the (soft) skills required to progress in a path. Motivation aspects are covered in the literature in multiple way : either in the Moving Motivator (Management 3.0), Process.com, ActionTypes,... . The internal motivation aspect is an important point because this is a key factor to be in 'energy' in our daily activity.
-The skills required to enhance our capacability are discribed often as soft skill, therm largely miseused, but you can go back to the origin in this [document](https://code.joejag.com/2018/the-origin-of-soft-skills.html#:~:text=It%20turns%20out%20%27soft%20skills,how%20the%20group%20was%20led), you may find a list of skills [here](https://www.thebalancecareers.com/what-are-soft-skills-2060852).
 
-As example, the [Gallup](https://www.gallup.com) approach, may help to link your skills to the capacity you want to devellop, Process.com may help you to identify if the path will be natural or more challanging for you, and may give you some hints on how to use some motivation drivers to succeed in your learning.
+## What is not covered by the Career Paths framework
+
+A career may fill a big part of life. But our personnal objectives may change with time. Our strengths, weaknesses, motives, satisfactions may vary as well.
+The Career Paths framework will not explore the internal motivation that drives our life, nor the (soft) skills required to progress in a particular path.
+
+Motivation aspects are available in the literature through many materials: Moving Motivators (Management 3.0), Process Com, ActionTypes...
+The internal motivation aspect is an important point because it is a key factor to be "energized" for our daily activities.
+
+Skills are important as well.
+And the skills required to enhance our capabilities are often described as soft skills, which is a largely misused term.
+You can go back to the origin of the term in this [document](https://code.joejag.com/2018/the-origin-of-soft-skills.html#:~:text=It%20turns%20out%20%27soft%20skills,how%20the%20group%20was%20led).
+And you may find a list of these "soft" skills [here](https://www.thebalancecareers.com/what-are-soft-skills-2060852).
+
+When running career coaching session, you should therefore use complementary methods or approaches along with the Career Paths framework.
+- [Gallup](https://www.gallup.com)'s approach may help link your skills to a capacity you want to develop
+- [Process Communication](https://processcommodel.com/) may help you identify if a path will be natural or more challenging for you. It may also provide some hints on how to use some motivation drivers to succeed in your learning.
 
 
 
