@@ -41,7 +41,7 @@ Through multiple iterations, we ended up with a framework with 6 paths where one
 5. __Architecture__: through leading construction work
 6. __Posture__: through positively influencing one's ecosystem
 
-And since we need to introduce the idea of "growth", steps or milestones are defined for each path. 
+And since we need to introduce the idea of "growth", steps or milestones are defined for each path.
 
 This led to the following model:
 
@@ -84,7 +84,7 @@ In the meantime, if you would like to deep dive further in our own framework, yo
   - [Leadership](/paths/leadership.md)
   - [Business (COMING SOON)](/paths/business.md)
   - [Architecture](/paths/architecture.md)
-  - [Posture (COMING SOON)](/paths/posture.md)
+  - [Posture](/paths/posture.md)
 - Check out some career profiles examples:
   - COMING SOON
 - Explore additional resources on the IT career paths topic
