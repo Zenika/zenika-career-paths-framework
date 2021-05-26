@@ -6,7 +6,7 @@ The Posture path focuses on personnal capacities.
 
 _Posure_ is may be the most difficult to explain, as it's covered largelly in the litterature, and the word have so many meaning depending on the author. So, we tried to clarify what we call _posture_ in our context.
 
-_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
+_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective. This required often changes in the initial plan, or a change in the target. But these evolution are made consciously with the good timing.
 
 However, this requires the same strong foundation :
 - Ability to listen and learn
@@ -92,6 +92,9 @@ They also showcase the following:
 
 The _coach_, is the personn who have the capacity to use one of the previous posture in order to acheive his objective.
 He has the control of the posture, and use it on purpose. It requires a deep knowledge of our internal motivation, what's drive us, what's drive a group of people.
+Going at this level, means we have a deep control of our natural behavior. This may generate stress and tiredness or euphory as the job may be exiting and challenging. Burnout may be due also of too much (euphoric) activities.
+
+The progress in this direction, if often an guided progression, as _hypervision_ (work activities made in group of same level people) or _supervision_ (a senior help you to analse what's happen in the past, and help you to think about the futur) are key parts of this role.
 
 They also showcase the following:
 - Ability to decide (in real time) which posture is the most suitable to reach the objective
@@ -104,6 +107,9 @@ They also showcase the following:
 ### Influencer
 
 As the previous paths, we values the capacities to share he knowledge. So, in our path, the capacity to share, promote a knowledge or  a practice, with a deep analasys on how it works and why, may have a significant impact.
+
+The _influener_ should masterise the _logos_ (logical part of the message, what make sens and the most relevant arguments), the _ethos_ (the messanger, it's important to devellop our sympathy, we must be confident and honorable) and the _pathos_ (the emotional part of the message, we develop emotion in the listeners group).  Beginner may focus on only one aspect of the message, but these three parts are important.
+
 They also showcase the following:
 - Ability to engage people in a path, a change or a transformation
 - Ability to share and explain his/her convictions.
