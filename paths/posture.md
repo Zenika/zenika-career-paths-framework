@@ -114,13 +114,18 @@ As for abilities, Coaches showcase the following:
 
 ### Influencer
 
-As seen with the previous steps, we value the abilities to share knowledge. So, in our path, the capacity to share, promote a knowledge or  a practice, with a deep analasys on how it works and why, may have a significant impact.
+As seen with the previous steps, we value the abilities enabling knowledge sharing. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
 
-The _influencer_ should masterise the _logos_ (logical part of the message, what make sens and the most relevant arguments), the _ethos_ (the messanger, it's important to devellop our sympathy, we must be confident and honorable) and the _pathos_ (the emotional part of the message, we develop emotion in the listeners group).  Beginner may focus on only one aspect of the message, but these three parts are important.
+To that end, Influencers should master:
+- the _logos_ (the logical part of the message, we make sense by leveraging the most relevant arguments)
+- the _ethos_ (the messenger's credibility, we must be confident and honorable)
+- the _pathos_ (the emotional part of the message, we have an emotional impact on the listeners)
 
-They also showcase the following:
+Beginners may focus on only one aspect of message communication, but these three parts are equally important.
+
+Moreover, Influencers also showcase the following:
 - Ability to engage people in a path, a change or a transformation
-- Ability to share and explain his/her convictions.
+- Ability to share and explain their firm beliefs
 
 
 [🏠Go Back](../README.md)
