@@ -2,27 +2,28 @@
 
 ## Path breakdown
 
-The Posture path focuses on personnal capacities.
+The Posture path focuses on personal capabilities.
 
-_Posure_ is may be the most difficult to explain, as it's covered largelly in the litterature, and the word have so many meaning depending on the author. So, we tried to clarify what we call _posture_ in our context.
+_Posture_ might be the most difficult path to explain, as it is largely covered in the literature and the word has so many meanings depending on the authors.
+So we first tried to clarify what we call _Posture_ in our context.
 
-_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective. This required often changes in the initial plan, or a change in the target. But these evolution are made consciously with the good timing.
+_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
+Over time, the initial plan or the targeted state often change. But any necessary adaptations can also be made consciously with the right timing.
 
-However, this requires the same strong foundation :
+However, this requires some strong foundation:
 - Ability to listen and learn
 - Ability to teach and explain
 - Ability to empower and contribute
-- Ability to summarize and took decision
-- Ability to set up feedback loops and other communication channels
+- Ability to summarize and take decisions
 - Ability to display confidence and comforting authority
 
-From an operational standpoint, _the posture_ will help us to usually:
-- help individual, teams or organisation to reach a point
-- Get continuous feedback to adjust the posture we use in the context
+From an operational standpoint, a _posture_ will usually help us to:
+- Help individuals, teams or organisations to reach a target
+- Get continuous feedback to adjust the posture we use in our operational context
 
 ## Overview
 
-The _posture_ will reflect our ability to have the good behavior, to use the rigth tools at the ritgh moment, with the good persons.  The objective is to find de good balance between listening, helping and acting.
+The _posture_ will reflect our ability to have the right behavior, to use the rigth tools at the right moment and with the right persons. The objective is to find a good balance between listening, helping and acting ourselves.
 
 ### Steps overview
 
@@ -32,25 +33,24 @@ The _posture_ will reflect our ability to have the good behavior, to use the rig
 
 ### Doer
 
-Doer is th beginning of the path.
-The mains abilities are the following:
-- Ability to follow a plan, an order, an idea, ...
-- Ability to alter in case of something went wrong
-- Ability to set up good communication patterns within a team
-- Ability to develop the sense of team ownership
+The __Doer__ posture marks the beginning of the path.
+
+Doers are able to:
+- Follow a plan, an order, an idea...
+- Change course in case something goes wrong
 
 
 ### Consultant
 
-Constulant is the next level, it's the ability to go over the simple execution.
+Consultants are at the next level. They have the ability to go beyond simple task execution.
 
 They also showcase the following:
-- Set up clear communication patterns between the objective's stakeholders and the team
-- Ability to go from what we have been 'ask' to do to the (real) need
-- Ability to identify bottleneck before they happened
+- Ability to communicate clearly with objectives' stakeholders
+- Ability to go from what has been 'asked' to be done to the (real) need
+- Ability to identify bottlenecks before they congest a context
 
 
-From this point, there is three dictinct path. The three path have some common part, as the posture need to be shared with the person or group you are helping.
+From this point onward, there are 3 dictinct paths. They overlap each other to some extent, as helping individuals or groups requires some fundamental techniques.
 
 ### Mentor
 
