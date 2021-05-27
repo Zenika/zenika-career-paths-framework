@@ -33,7 +33,7 @@ The _posture_ will reflect our ability to have the right behavior, to use the ri
 
 ### Doer
 
-The __Doer__ posture marks the beginning of the path.
+The Doer posture marks the beginning of the path.
 
 Doers are able to:
 - Follow a plan, an order, an idea...
@@ -52,61 +52,69 @@ They also showcase the following:
 
 From this point onward, there are 3 dictinct paths. They overlap each other to some extent, as helping individuals or groups requires some fundamental techniques.
 
+
 ### Mentor
 
-The mentor, is the ability to help others, by listening them, protect them, by avoiding them to be in trouble.
-It's what we call a _low_ posture.
-I used to explain it, often, as the 'mountain guide', that walk with you, providing you advice, but you are the owner of the path you choose to follow.
-The guide is there to ensure your success, but he's not accountable for it, as he do not control the key part of the success.
-They also showcase the following:
-- Ability to listen and to questionnate
-- Ability to not influence by its own feeling the mentoree
-- Ability to suggest neutral idea
-- Ability to define the rules and the limites of the coaching support
+Mentors help others by listening to them, protecting them, making them avoid being in trouble.
+They have what we call a _low posture_.
+
+We can compare them to 'mountain guides', who walk with you, provide you advice, while you are still the owner of the path you choose to follow.
+The guides are there to ensure your success, but they are not accountable for it as they do not control the key parts of your success.
+
+As for abilities, Mentors showcase the following:
+- Ability to listen and to question
+- Ability to keep their personal feelings from affecting the mentee(s)
+- Ability to suggest neutral ideas
+- Ability to define the rules and the limits of the provided support
+
+
+### Lecturer and Trainer
+
+Trainers transfer knowledge to trainees.
+They have a _high posture_.
+However, one must remember that good teachers alternate the _Trainer_ posture with the _Mentor_ one during teaching sessions.
+
+Lecturers can still deliver knowledge, but Trainers also have the ability to build training paths adapted to their students.
+
+Trainers then showcase the following:
+- Ability to share, transfer a piece of knowledge
+- Ability to construct a learning path adapted to the trainee(s) needs
+- Ability to adapt the training to the specificities of the audience
+
 
 ### Facilitator
 
-The facilitator, is (not only an agile facilitator) a personn who have the capacity to etract the collective knowledge of an individual or a group to find a solution or a problem.
+Facilitators (not limited to "agile facilitators") are persons who have the capability to extract the collective knowledge of an individual or a group to find a solution to a problem.
 
 They also showcase the following:
 - Ability to drive a group
-- Ability to be focussed on the solution
-- Ability questionnate
-- Ability to summarized, reformulate idea, opinion
-
-
-### Lecturer and trainer
-
-This sub path, is the ability to transfer knowledge from one personn to another one. It's a _high_ (top?) posture where one person.
-Be carefull, a good teacher alternate the _trainer_ and the _mentor_ posture during a teaching session.
-
-The first step, _lecturer_, is the ability to deliver a knowledge, but the _trainer_ as also the capacity to build the training path according to the student.
-
-They also showcase the following:
-- Ability to share, transfert a knowledge
-- Ability to construct a learning path adapted to the trainee
-- Ability to adapt the training to the specificities of the trainnee.
+- Ability to be solution-focused
+- Ability to question
+- Ability to summarize and reformulate ideas / opinions
 
 
 ### Coach
 
-The _coach_, is the personn who have the capacity to use one of the previous posture in order to acheive his objective.
-He has the control of the posture, and use it on purpose. It requires a deep knowledge of our internal motivation, what's drive us, what's drive a group of people.
-Going at this level, means we have a deep control of our natural behavior. This may generate stress and tiredness or euphory as the job may be exiting and challenging. Burnout may be due also of too much (euphoric) activities.
+Coaches have the ability to consciously use one of the previous postures in order to achieve their goal.
 
-The progress in this direction, if often an guided progression, as _hypervision_ (work activities made in group of same level people) or _supervision_ (a senior help you to analse what's happen in the past, and help you to think about the futur) are key parts of this role.
+They have the control of their own posture and use it with purpose.
+Having a Coach posture requires a deep awareness of internal motivations: what drives us and what can drive a group of people.
+Going at this level means we have a deep control of our natural behavior. This may generate stress, tiredness or euphory as the job may be both challenging and exciting.
+Warning: burnouts may also happen due to spending too much time on thrilling activities.
 
-They also showcase the following:
-- Ability to decide (in real time) which posture is the most suitable to reach the objective
+The progress in this direction is often guided, as _hypervision_ (progression with peers) or _supervision_ (progression with a mentor) are key enablers of this role.
+
+As for abilities, Coaches showcase the following:
+- Ability to adopt (in real-time) the most suitable posture to reach an objective
 - Ability to explain a situation
-- Ability to find a set of solution to a problem
+- Ability to find a set of solutions to a problem
 - Ability to ask for help when needed
-- Ability to take care of himself
+- Ability to take care of themselves
 
 
 ### Influencer
 
-As the previous paths, we values the capacities to share he knowledge. So, in our path, the capacity to share, promote a knowledge or  a practice, with a deep analasys on how it works and why, may have a significant impact.
+As seen with the previous steps, we value the abilities to share knowledge. So, in our path, the capacity to share, promote a knowledge or  a practice, with a deep analasys on how it works and why, may have a significant impact.
 
 The _influener_ should masterise the _logos_ (logical part of the message, what make sens and the most relevant arguments), the _ethos_ (the messanger, it's important to devellop our sympathy, we must be confident and honorable) and the _pathos_ (the emotional part of the message, we develop emotion in the listeners group).  Beginner may focus on only one aspect of the message, but these three parts are important.
 
