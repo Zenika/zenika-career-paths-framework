@@ -1,23 +1,24 @@
 # Business path
 
 
-The business path focus on our ability to satisfy our interlocutor needs.  The objective is not to sell all the shop to someone. The objective is to be a good 'personnal advisor', in order to go beyond the _demand_, to be able to understand the real _need_, or even to anticipate the _future needs_ based on our experiences, or regarding our market knowledge.
+The business path focuses on our ability to satisfy our interlocutor needs.
+
+The objective is not to sell all the items in the shop to someone. It is rather to be a good "personnal advisor", in order to go beyond the _demand_, to be able to understand the real _need_, or even to anticipate the _future needs_ based on our experiences or our market knowledge.
 
 
 ## Path breakdown
 
+All types of businesspersons share common fundamental abilities:
+- Ability to listen to needs
+- Ability to extract actual needs from demands
+- Ability to anticipate needs within a situation
+- Ability to transpose knowledge from another domain to our iterlocutors' contexts
 
-But all these types of architects share the same fundamental abilities:
-- Ability to listen the needs
-- Ability to extract the needs from the demand.
-- Ability to anticipage the needs regarding a situation
-- Ability to transpose a knowledge from another domain, to our iterlocutor context.
 
-
-In order to grow in that path, we designed 3 different scales we thought relevant for any type of Busines:
-- __Opportunity seeker__: is able to listen the demand, and to satisfy it
-- __Business Creator__: is able to go over the demand, to satisfy the need
-- __New Market Explorer__: is able to anticipate over the demand, and to create a new need to the interlocutor
+In order to grow in that path, we designed 3 different levels we thought relevant for any type of Business person:
+- __Opportunity seeker__: is able to listen to the demand and satisfy it
+- __Business Creator__: is able to analyze the demand and satisfy the underlying need
+- __New Market Explorer__: is able to anticipate the demand and create a new need
 
 
 ## Overview
@@ -28,46 +29,54 @@ In order to grow in that path, we designed 3 different scales we thought relevan
 
 ### Personified Moving Motivator
 
-As I said, the main objectve is not to sell an encyclopaedia to the grand'ma in your neighbourhoud.
-The main objective is to answer the need of your interlocutor, you do your best, and depending of your level you answer either directly to the demand, you are able to identify the need, or even you are able to go beyond.
-Let's go throug an exemple.
-You work with your friend, lunch time is comming. He tells you 'I want a pizza'.
+As stated above, the main objectve is not to sell an encyclopedia to the grand'ma in your neighbourhood.
+It is to best answer the need of your interlocutor and, depending on your level, to either:
+- directly address it
+- reassess it
+- look beyond it
 
-If you answer to his _demand_, you call the pizza to order one.
+Let's go over an example.
 
-If you go to the _need_ : have a lunch, eat something , you can either check if he will accept something else (indian, mexican) or go deeper in the requierement, 'do you want a drink, an icecream in additin' ?
+You work with your friend, lunch time is coming. They tell you: "I want a pizza".
 
-If you anticipate _future needs_ : let's go for the pizza, but you know, what's about doing some sport also ? it will not be very healthy to eat pizza every day. This is based on your experience of delivering pizza to thousand of personn.
+If you answer to their _demand_, you call the pizzeria to order one.
+
+If you focus on their _need_, have lunch or eat something, you can either check if they will accept something else (Indian, Mexican) or go deeper into the requirement: "Do you want a drink and an icecream in addition to that?".
+
+If you anticipate _future needs_: "Let's go for the pizza. But, you know, what about doing sports as well? It will not be very healthy to eat pizzas every day." This is based on your experience of delivering pizzas to thousands of persons.
 
 
 ## Steps details
 
-### Solution-focused Builder
+### Opportunity seeker
 
-Usually, personn may be afraid of 'selling' something. Despite the name, the key objective is to help our interlocutor, sometime without even immediate benefice.
+Persons may be afraid of "selling" something. However, the key objective here is to help our interlocutor, sometimes even without immediate benefit.
 
-The key abilities are :
+The key abilities of an Opportunity Seeker are:
 - Ability to understand the demand
 - Ability to convert the demand to an answer
 
-### Opportunity seeker
-
-Sometime people may have the feeling to try to sell _all the shop_ to the interlocutor. This is not the aim, the objective is to satisfy the customer need. To be able to go beyond his demand, to understand the real need.
-Product owner, will say customer have difficulties to express clearly their needs, the often focus on a demand, a detail.
-
-The key abilities are :
-- ability to go over the demand to identify the real needs
-- ability to validate the needs identified
-- ability to questionnate to identify the need
-
 ### Business Creator
 
-Sometime people are stick in a domain. They are not able to translate what's happening in order domain in their context.
-_Business creator_ are person that have the ability to extrapolate between two domains. They are also personn that can inovate in a domain. The two aspects are important.
+Sometimes, people may have the feeling to try to sell _all the shop_ to the interlocutor.
+This is, again, not the aim. the objective is to satisfy the customer's need, to be able to go beyond their demand and to understand their real need.
+Product owners are used to saying "customers have difficulties to clearly express their needs: they often focus on a specific demand or detail".
 
-The key abilities are :
-- ability to extrapolate / corrolate needs among demoralization,--isation
-- ability to explain why a solution can be suitable in a context
+The key abilities of a Business Creator are:
+- Ability to go over the demand to identify the real needs
+- Ability to validate the identified needs
+- Ability to question the expression of the need
+
+### New Market Explorer
+
+Sometimes, people are stuck in a particular domain. They are not able to transpose what happens in other domains to their own context.
+_New Market Explorers_ are persons with the ability to extrapolate to other domains.
+They are also persons who can innovate within a contextual domain.
+Both aspects are equally important.
+
+The key abilities of a New Market Explorer are :
+- Ability to extrapolate and/or correlate needs across different domains
+- Ability to explain why an out-of-band solution can be suitable in a given context
 
 
 
