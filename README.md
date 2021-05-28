@@ -105,7 +105,7 @@ In the meantime, if you would like to deep dive further in our own framework, yo
   - [Leadership](/paths/leadership.md)
   - [Business (COMING SOON)](/paths/business.md)
   - [Architecture](/paths/architecture.md)
-  - [Posture (COMING SOON)](/paths/posture.md)
+  - [Posture](/paths/posture.md)
 - Check out some career profiles examples:
   - COMING SOON
 - Explore additional resources on the IT career paths topic
