@@ -39,7 +39,7 @@ Let's go over an example.
 
 You work with your friend, lunch time is coming. They tell you: "I want a pizza".
 
-If you answer to their _demand_, you call the pizzeria to order one.
+If you answer their _demand_, you call the pizzeria to order one.
 
 If you focus on their _need_, have lunch or eat something, you can either check if they will accept something else (Indian, Mexican) or go deeper into the requirement: "Do you want a drink and an icecream in addition to that?".
 
