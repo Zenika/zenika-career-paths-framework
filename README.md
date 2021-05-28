@@ -103,7 +103,7 @@ In the meantime, if you would like to deep dive further in our own framework, yo
   - [Practices & their related Domains](/paths/practices.md)
   - [Delivery (COMING SOON)](/paths/delivery.md)
   - [Leadership](/paths/leadership.md)
-  - [Business (COMING SOON)](/paths/business.md)
+  - [Business](/paths/business.md)
   - [Architecture](/paths/architecture.md)
   - [Posture](/paths/posture.md)
 - Check out some career profiles examples:
