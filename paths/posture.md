@@ -2,12 +2,12 @@
 
 ## Path breakdown
 
-The Posture path focuses on personal capabilities.
+The Posture path focuses on conscious behaviours that can positively impact people around us.
 
 _Posture_ might be the most difficult path to explain, as it is largely covered in the literature and the word has so many meanings depending on the authors.
 So we first tried to clarify what we call _Posture_ in our context.
 
-_Posture_ is our ability to use different techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
+_Posture_ is our ability to use different behavioral techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
 Over time, the initial plan or the targeted state often change. But any necessary adaptations can also be made consciously with the right timing.
 
 However, this requires some strong foundation:
@@ -38,6 +38,7 @@ The Doer posture marks the beginning of the path.
 Doers are able to:
 - Follow a plan, an order, an idea...
 - Change course in case something goes wrong
+- Inspire action by setting an example
 
 
 ### Consultant
@@ -46,8 +47,9 @@ Consultants are at the next level. They have the ability to go beyond simple tas
 
 They also showcase the following:
 - Ability to communicate clearly with objectives' stakeholders
-- Ability to go from what has been 'asked' to be done to the (real) need
+- Ability to clarify and challenge needs expressions
 - Ability to identify bottlenecks before they congest a context
+- Ability to propose options or alternatives
 
 
 From this point onward, there are 3 dictinct paths. They overlap each other to some extent, as helping individuals or groups requires some fundamental techniques.
@@ -114,7 +116,7 @@ As for abilities, Coaches showcase the following:
 
 ### Influencer
 
-As seen with the previous steps, we value the abilities enabling knowledge sharing. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
+As seen with the previous steps, we value the abilities enabling the positive change of behaviours or capabilities of the people around us. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
 
 To that end, Influencers should master:
 - the _logos_ (the logical part of the message, we make sense by leveraging the most relevant arguments)
@@ -126,6 +128,7 @@ Beginners may focus on only one aspect of message communication, but these three
 Moreover, Influencers also showcase the following:
 - Ability to engage people in a path, a change or a transformation
 - Ability to share and explain their firm beliefs
+- Ability to naturally reach consensuses on certain matters
 
 
 [🏠Go Back](../README.md)
