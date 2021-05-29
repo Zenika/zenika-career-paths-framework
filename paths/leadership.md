@@ -26,7 +26,7 @@ From an operational standpoint, leaders will usually:
 
 ### Steps overview
 
-![Practices and Domains steps overviews](../images/steps-leadership.png)
+![Leadership steps overview](../images/steps-leadership.png)
 
 ### Personified Moving Motivator
 

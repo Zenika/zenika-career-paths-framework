@@ -27,7 +27,7 @@ The _posture_ will reflect our ability to have the right behavior, to use the ri
 
 ### Steps overview
 
-![Practices and Domains steps overviews](../images/steps-posture.png)
+![Posture steps overview](../images/steps-posture.png)
 
 ## Steps Details
 

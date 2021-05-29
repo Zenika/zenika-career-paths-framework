@@ -32,7 +32,7 @@ We wanted the manipulated terms to be as generic as possible to make them applic
 
 ### Steps overview
 
-![Practices and Domains steps overviews](../images/steps-practices-domains.png)
+![Practices and Domains steps overview](../images/steps-practices-domains.png)
 
 ### Practice Specialist
 

@@ -25,9 +25,9 @@ In order to grow in that path, we designed 3 different levels we thought relevan
 
 ### Steps overview
 
-![Practices and Domains steps overviews](../images/steps-business.png)
+![Business steps overview](../images/steps-business.png)
 
-### Personified Moving Motivator
+### Dedicated servant
 
 As stated above, the main objectve is not to sell an encyclopedia to the grand'ma in your neighbourhood.
 It is to best answer the need of your interlocutor and, depending on your level, to either:
