@@ -101,7 +101,7 @@ If you are interested in our approach to build a tailored framework for your org
 In the meantime, if you would like to deep dive further in our own framework, you can:
 - Start by exploring each path individually:
   - [Practices & their related Domains](/paths/practices.md)
-  - [Delivery (COMING SOON)](/paths/delivery.md)
+  - [Delivery](/paths/delivery.md)
   - [Leadership](/paths/leadership.md)
   - [Business](/paths/business.md)
   - [Architecture](/paths/architecture.md)
