@@ -111,4 +111,6 @@ In the meantime, if you would like to deep dive further in our own framework, yo
 - Explore additional resources on the IT career paths topic
   - [Articles](/resources/articles.md)
   - [Online Talks](/resources/talks.md)
+- How to start in your organization,-organisation
+  - [HowTo](/resources/HowToStart.md)
 - Start a follow-up discussion with us at [info@zenika.com](mailto:info@zenika.com)
