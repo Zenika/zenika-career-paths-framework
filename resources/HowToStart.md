@@ -46,3 +46,7 @@ The define the target, is a balance between the personnal dreams, and the organi
 A common mistake i saw in organisation, is manager have 'ideas' of who wants to go in a direction or who can go in a direction. My personnal position today, is by doing that you avoid lot of good surprise.  Motivation is a key point during a change, so i prefer to have motivated people instead of people that _can do_ the job.
 
 if you are interested in organisation agile skill you may have a look at what's [Agile'OA]()http://www.agiloa.com/fr/) did
+
+## Skill reqired to help team membership
+
+Helping people in the path requires dedicated skills. Human coach, Transformation coach, facilitator, HR, manager can help at different point of time in the path.
