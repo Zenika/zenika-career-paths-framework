@@ -44,7 +44,7 @@ If they only draw trajectories that fit management requirements without taking i
 
 ### Steps overview
 
-![Practices and Domains steps overviews](../images/steps-architecture.png)
+![Architecture steps overview](../images/steps-architecture.png)
 
 ### Solution-focused Builder
 
