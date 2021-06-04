@@ -11,11 +11,11 @@ Do you expect to transform your organisation, do you expect to find valuable per
 
 ## Process
 
-The CareerPath process can be setup in 4 distinct steps, depending of the personn and the objective you have.
+The CareerPath process can be setup in 4 distinct steps, depending of the teams and the objective you have.
  - the _auto-diagnostic_, the persons (helped by a faciliator) will fill theirs path according to their experience.
- - the _check with the reality_ , the persons (helped by someone who hae informations, facts, comming from the customers, colleagues, projects ...) with the manager (as example) will discuss if the auto-diagnostic match the others percetion. It's similar to all 360's approach.
- - _Define the target_, the personns will define their next steps, were they want to make progress, what they want to explore.
- - _Make the plan_ , he personnes will define (with manager, HR,...) to steps to reach their personnal target.
+ - the _check with the reality_ , the persons (helped by someone who have informations, facts, inputs from the customers, colleagues, projects ...) with the manager (as example) will discuss if the auto-diagnostic match the facts. We can compare this step to the 360's approach.
+ - _Define the target_, the personns will define their next steps, where they want to make progress, what they want to explore.
+ - _Make the plan_ , the personns will define (with manager, HR,...) to steps to reach their personnal targets.
 
 All the steps requires specific skill to help the personne in this path:
 - In the _auto_diagnostic_, the challenge is to define your position relatively to others. The exercise is difficult, often the personn either under estimate their value, or over estimate it.
@@ -42,10 +42,10 @@ So, it's not a 6 month plan. Defining baby steps, with clear objective may make 
 The diagnostic part will help you to match your organisation strengh regarding the challenges you have to adress.
 You can build a _radar_ of your teams, and compare it to what you need. From this point you may either help your team to learn the missing skill, or addapt your recrutment plan.
 
-The define the target, is a balance between the personnal dreams, and the organisation goal. Sharing with the teams the organisation challenge may help them to identify opportunity.
-A common mistake i saw in organisation, is manager have 'ideas' of who wants to go in a direction or who can go in a direction. My personnal position today, is by doing that you avoid lot of good surprise.  Motivation is a key point during a change, so i prefer to have motivated people instead of people that _can do_ the job.
+The define the target, is a balance between the personnal dreams, and the organisation goal. Sharing with the teams the organisation challenges may help them to identify new opportunities.
+A common mistake in organisation, is manager have 'ideas' of who wants to go in a direction or who can go in a direction. By doing that you avoid lot of good surprise, prevent people to volunter, and even worse you may generate frustation as new oppportunities are propose all the time to the same subset of people.  Motivation is a key point during a change, so focus on involving people instead of focusing finding people that _can do_ the job.
 
-if you are interested in organisation agile skill you may have a look at what's [Agile'OA]()http://www.agiloa.com/fr/) did
+If you are interested in organisation agile skill you may have a look at what's [Agile'OA]()http://www.agiloa.com/fr/) did
 
 ## Skill reqired to help team membership
 
