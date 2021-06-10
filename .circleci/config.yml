@@ -1,14 +1,16 @@
 version: 2
 
-build:
-  jobs:
-    -docs-build
-    -docs-deploy
-      requires:
-        -docs-build
-      filters:
-        branches:
-          only: master, circleCI
+workflows:
+  version 2:
+  build:
+    jobs:
+      -docs-build
+      -docs-deploy
+        requires:
+          -docs-build
+        filters:
+          branches:
+            only: master, circleCI
 
 jobs:
   docs-build:
