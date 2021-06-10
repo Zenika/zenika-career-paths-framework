@@ -14,7 +14,8 @@ jobs:
           command: cp -pdr . docs/
       - persist_to_workspace:
           root: html
-          paths: docs
+          paths:
+              - docs
   docs-deploy:
     docker:
       - image: node:8.10.0
@@ -36,6 +37,9 @@ workflows:
   build:
     jobs:
        - docs-build:
+            filters:
+               branches:
+                  only circleCI
        - docs-deploy:
            requires:
               - docs-build
