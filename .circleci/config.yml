@@ -3,7 +3,7 @@ version: 2
 build:
   jobs:
     -docs-build
-    -docs-deploy:
+    -docs-deploy
       requires:
         -docs-build
       filters:
@@ -22,7 +22,6 @@ jobs:
     - persist_to_workspace:
         root: docs/
         paths: html
-
   docs-deploy:
     docker:
       - image: node:8.10.0
