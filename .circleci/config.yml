@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: Build docs
-          command: mkdir docs
+          command: mkdir docs toDeploy
       - run:
           name: copy docs
           command: cp -pdr images paths resources README.md LICENSE docs/
