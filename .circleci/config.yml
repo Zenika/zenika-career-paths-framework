@@ -11,7 +11,7 @@ jobs:
           command: mkdir docs
       - run:
           name: copy docs
-          command: cp -pdr images paths resources Readme.md LICENSE docs/
+          command: cp -pdr images paths resources README.md LICENSE docs/
       - persist_to_workspace:
           root: html
           paths:
