@@ -35,10 +35,22 @@ workflows:
   version: 2
   build:
     jobs:
-      - docs-build
-      - docs-deploy
-        requires
+      - docs-build:
+          pre-steps: # steps to run before steps defined in the job bar
+            - run:
+                command: echo "install custom dependency"
+          post-steps: # steps to run after steps defined in the job bar
+            - run:
+                command: echo "upload artifact to s3"
+      - docs-deploy:
+        requires:
           - docs-build
-        filters
-          branches
+        filters:
+          branches:
             only circleCI
+        pre-steps: # steps to run before steps defined in the job bar
+            - run:
+                command: echo "install custom dependency"
+         post-steps: # steps to run after steps defined in the job bar
+           - run:
+                command: echo "upload artifact to s3"
