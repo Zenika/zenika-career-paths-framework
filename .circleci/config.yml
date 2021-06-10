@@ -1,4 +1,4 @@
- version: 2
+version: 2
 
 build:
   jobs:
@@ -34,8 +34,8 @@ jobs:
           name: Install and configure dependencies
           command: |
             npm install -g --silent gh-pages@2.0.1
-           git config user.email "ci-build@klukas.net"
-           git config user.name "ci-build"
+           git config user.email "dsi-ext@zenika.com""
+           git config user.name "Zenika"
       - run:
           name: Deploy docs to gh-pages branch
           command: gh-pages --dist docs/html
