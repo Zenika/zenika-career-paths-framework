@@ -13,7 +13,7 @@ build:
 jobs:
   docs-build:
     docker:
-      - image: python:3.7
+      - image: cimg/base:2021.04
     steps:
       - checkout
       - run:
