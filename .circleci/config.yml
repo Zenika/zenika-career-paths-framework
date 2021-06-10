@@ -13,7 +13,7 @@ jobs:
           name: copy docs
           command: cp -pdr images paths resources README.md LICENSE docs/
       - persist_to_workspace:
-          root: html
+          root: /tmp/html
           paths:
               - docs
   docs-deploy:
@@ -22,7 +22,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: html/
+          at: /tmp/html/
       - run:
           name: Install and configure dependencies
           command: |
@@ -31,7 +31,7 @@ jobs:
             git config user.name "Zenika"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist html
+          command: gh-pages --dist /tmp/html/docs
 workflows:
   version: 2
   build:
