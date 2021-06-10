@@ -39,10 +39,12 @@ workflows:
        - docs-build:
             filters:
                branches:
-                  only circleCI
+                 only:
+                    - circleCI
        - docs-deploy:
            requires:
               - docs-build
            filters:
                branches:
-                  only circleCI
+                  only:
+                      - circleCI
