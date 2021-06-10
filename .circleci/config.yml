@@ -13,7 +13,7 @@ jobs:
           name: copy docs
           command: cp -pdr images paths resources README.md LICENSE docs/
       - persist_to_workspace:
-          root: toDeploy
+          root: ./toDeploy
           paths:
               - docs
   docs-deploy:
