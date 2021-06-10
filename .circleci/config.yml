@@ -8,12 +8,12 @@ jobs:
       - checkout
       - run:
           name: Build docs
-          command: mkdir docs /tmp/toDeploy
+          command: mkdir docs toDeploy
       - run:
           name: copy docs
           command: cp -pdr images paths resources README.md LICENSE docs/
       - persist_to_workspace:
-          root: /tmp/toDeploy
+          root: toDeploy
           paths:
               - docs
   docs-deploy:
@@ -22,7 +22,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: /tmp/toDeploy/docs/
+          at: toDeploy/docs/
       - run:
           name: Install and configure dependencies
           command: |
@@ -31,7 +31,7 @@ jobs:
             git config user.name "Zenika"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dist /tmp/toDeploy/docs/
+          command: gh-pages --dist toDeploy/docs/
 workflows:
   version: 2
   build:
