@@ -47,6 +47,7 @@ workflows:
                branches:
                  only:
                     - circleCI
+                    - master
        - docs-deploy:
            requires:
               - docs-build
@@ -54,3 +55,4 @@ workflows:
                branches:
                   only:
                       - circleCI
+                      - master
