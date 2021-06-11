@@ -29,6 +29,9 @@ jobs:
             npm install -g --silent gh-pages@2.0.1
             git config user.email "dsi-ext@zenika.com"
             git config user.name "Zenika"
+      - add_ssh_key:
+          fingerprints:
+            - "68:2a:57:0b:29:34:b9:94:d8:f6:3c:9f:e4:4b:13:79"
       - run:
           name: Deploy docs to gh-pages branch
           command: gh-pages --dist docs/
