@@ -1,32 +1,30 @@
-# How to start with the CareerPath in your organization
+# How to start with the Career Paths framework in your organization
 
 
 ## Before starting
 
-The CareerPath is a framework, is part of the whole management process. This is a key point.
-Doing the CareerPath is not a goal, it's a way to reach your goal. So the first question to ask yourself is : "What do you want to acheive ?"
-Do you expect to transform your organisation, do you expect to find valuable personn to acheive an objective, do you want a diagnostic of your team, ....
-
+The Career Paths, as a framework, is part of the whole management process. This is a key point.
+Running a Career Paths session is not a goal, it is a way to reach your goal.
+So the first question to ask yourself is: "What do you want to achieve?"
+Do you expect to transform your organisation? Are you looking for valuable persons to reach an objective? Do you want to diagnose your team?...
 
 
 ## Process
 
-The CareerPath process can be setup in 4 distinct steps, depending of the teams and the objective you have.
- - the _auto-diagnostic_, the persons (helped by a faciliator) will fill theirs path according to their experience.
- - the _check with the reality_ , the persons (helped by someone who have informations, facts, inputs from the customers, colleagues, projects ...) with the manager (as example) will discuss if the auto-diagnostic match the facts. We can compare this step to the 360's approach.
- - _Define the target_, the personns will define their next steps, where they want to make progress, what they want to explore.
- - _Make the plan_ , the personns will define (with manager, HR,...) to steps to reach their personnal targets.
+The Career Paths process can be set in 4 distinct steps, depending of the teams and the objectives you have.
+ - _Self-diagnostic_, the persons (helped by a faciliator) will fill their paths according to their experience.
+ - _Reality check_, the persons (helped by someone who has information, facts, feedback from customers, colleagues, projects...) with the manager (as an example) will discuss if the auto-diagnostic matches the facts. We can compare this step to the 360's approach.
+ - _Target definition_, the persons will define their next steps where they want to make progress, what they want to explore.
+ - _Planning_, the persons will define (with management, HR...) the steps to reach their personnal targets.
 
-All the steps requires specific skill to help the personne in this path:
-- In the _auto_diagnostic_, the challenge is to define your position relatively to others. The exercise is difficult, often the personn either under estimate their value, or over estimate it.
-- In the _check with the reality_, being conscious of their real value can be disturbing. They can have some good suprise, or the reality may hurt.
-- In the _define the target_, defining a target may be diffcult. Defining objective, sharing internal motivation (and even knowing them) is not so common.
-- In the _Make the plan_, defining SMART objectives is a challenge and not so easy to do.
+The above steps require specific skills:
+- For the _auto_diagnostic_ step, the challenge is to define your position relatively to others. The exercise is difficult, the person often either underestimates their value or overestimates it.
+- For the _reality check_ step, being conscious of their real value can be disturbing. They may have some good suprises or the reality may hurt.
+- For the _target definition_ step, clarification may be difficult. Defining objectives, being aware of and sharing one's internal motivation are not so common.
+- For the _planning_ step, defining SMART objectives is a challenge of its own.
 
 
 ## Exemples of next steps
-
-
 
 Let's take an exemple. A front end developper, specialist of Angular. His target is to be able to diagnose front end systems.
 He has lot of topics to learn or develop :
