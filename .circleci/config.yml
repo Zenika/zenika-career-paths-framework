@@ -46,7 +46,6 @@ workflows:
             filters:
                branches:
                  only:
-                    - circleCI
                     - master
        - docs-deploy:
            requires:
@@ -54,5 +53,4 @@ workflows:
            filters:
                branches:
                   only:
-                      - circleCI
                       - master
