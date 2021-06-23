@@ -1,6 +1,7 @@
 # Zenika Career Paths framework
 
 The Zenika Career Paths framework is meant to help our collaborators customize their sought goals to develop their impact in the industry.
+(You can access the website [here](https://zenika.github.io/zenika-career-paths-framework/))
 
 ## Inception & Goals
 
