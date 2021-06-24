@@ -24,27 +24,45 @@ The above steps require specific skills:
 - For the _planning_ step, defining SMART objectives is a challenge of its own.
 
 
-## Exemples of next steps
+## Examples of next steps
 
-Let's take an exemple. A front end developper, specialist of Angular. His target is to be able to diagnose front end systems.
-He has lot of topics to learn or develop :
- - in order to have a global front end culture in need to have at least basic practice level in  VueJs, React, ...
- - in order to share is diganosis he need to develop synthesis capacity;
- - in order to diagnose, is should learn interview, communication, facilitation, ....
- - he should also have in mind than devops and backend practices will help to do a good job.
+Let's take a concrete example. A front-end developper, specialized in Angular. Their target is to be able to diagnose front-end systems.
+They have a lot of topics to learn and capabilities to develop:
+ - in order to have a global front-end culture, they need to have at least basic practice level in VueJs, React...
+ - in order to share their diganosis, they need to develop their ability to synthetize
+ - in order to diagnose, they should know how to interview, communicate, facilitate...
+ - they should also have in mind that developing their knowledge of DevOps and backend practices will help them understand front-end systems even further
 
-So, it's not a 6 month plan. Defining baby steps, with clear objective may make sens. The whole process may take several years. And of course, the target may change over time.  I think, keeping this in mind, is a key point to embrace the change.
+So, it is clearly not a 6 months plan. And defining baby steps, with clear objectives, makes sense.
+The whole process may take several years. And of course, the target may change over time.
+Keeping all this in mind is a key point to embrace change.
 
-## From the individu to the organisation
+## From the individual to the organisation
 
-The diagnostic part will help you to match your organisation strengh regarding the challenges you have to adress.
-You can build a _radar_ of your teams, and compare it to what you need. From this point you may either help your team to learn the missing skill, or addapt your recrutment plan.
+The diagnostic part will help you assess your organisation strengths against the challenges you have to adress.
+You can build a _radar_ of your teams and compare the current situation with where you need to be.
+From this point onward, you may either train your team to acquire the missing skills, or adapt your recruitment plan accordingly.
 
-The define the target, is a balance between the personnal dreams, and the organisation goal. Sharing with the teams the organisation challenges may help them to identify new opportunities.
-A common mistake in organisation, is manager have 'ideas' of who wants to go in a direction or who can go in a direction. By doing that you avoid lot of good surprise, prevent people to volunter, and even worse you may generate frustation as new oppportunities are propose all the time to the same subset of people.  Motivation is a key point during a change, so focus on involving people instead of focusing finding people that _can do_ the job.
+__In any case, the plan must balance out the individual dreams and the organisational goals.__
 
-If you are interested in organisation agile skill you may have a look at what's [Agile'OA]()http://www.agiloa.com/fr/) did
+Sharing about the organisation challenges with the teams can help individuals identify new growth opportunities.
 
-## Skill reqired to help team membership
+Going further, a common mistake for organizations is to solely rely on the managers own conception of what people want and what they can do.
+By directly discussing with the individuals:
+- good surprises can come up,
+- people may naturally volunteer,
+- people can be less frustrated from the feeling of "missed oppportunities,
+- opportunities can be proposed to other people than the usual ones.
+Overall, motivation is a key factor to achieve performance. Therefore, it is advised to regularly involve field people in opportunities assessments, as opposed to arbitrarily selecting "those who _can do the job_".
 
-Helping people in the path requires dedicated skills. Human coach, Transformation coach, facilitator, HR, manager can help at different point of time in the path.
+If you are interested in Agile Organisations skills, you can have a look at what [Agile'OA](https://www.agiloa.com) did.
+
+## Required skills to help teammates
+
+Helping people fulfilling their career objectives requires specific skills, such as:
+- Individual / personal coaching,
+- Transformation coaching,
+- Facilitation,
+- HR guidance,
+- Management.
+All skills can help at different points of time in supoprting one's career path journey.
