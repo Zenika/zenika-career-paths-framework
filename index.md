@@ -1,6 +1,7 @@
 # Zenika Career Paths framework
 
 The Zenika Career Paths framework is meant to help our collaborators customize their sought goals to develop their impact in the industry.
+(You can access the website [here](https://zenika.github.io/zenika-career-paths-framework/))
 
 ## Inception & Goals
 
@@ -111,4 +112,6 @@ In the meantime, if you would like to deep dive further in our own framework, yo
 - Explore additional resources on the IT career paths topic
   - [Articles](/resources/articles.md)
   - [Online Talks](/resources/talks.md)
+- How to start deploying the CareerPath in your organization
+  - [How to Start](/resources/HowToStart.md)
 - Start a follow-up discussion with us at [info@zenika.com](mailto:info@zenika.com)
