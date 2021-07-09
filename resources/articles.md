@@ -16,6 +16,6 @@
 
 ## Article in French
 
-- Emmanuel Goossaert : https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/?ref=linkedin 
+- Emmanuel Goossaert : https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/
 
 [🏠Go Back](../README.md)
