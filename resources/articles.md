@@ -10,12 +10,10 @@
   - https://css-tricks.com/the-importance-of-career-laddering/
   - https://career-ladders.dev/
 - Johanna Rothman thoughts: https://www.keystepstosuccess.com/2021/03/03-14-less-talks-johanna-rothman-how-to-create-a-career-ladder-for-vertical-and-lateral-movement/
-- A bunch of articles : https://www.progression.fyi/
-- CarrerPath at Github : https://about.gitlab.com/handbook/engineering/career-development/
-- SquareUp approach : https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/
-
-## Article in French
-
-- Emmanuel Goossaert : https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/
+- A bunch of articles: https://www.progression.fyi/
+- CarrerPath at Github: https://about.gitlab.com/handbook/engineering/career-development/
+- SquareUp approach: https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/
+- Emmanuel Goossaert: https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/
+- Dropbox approach: https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world
 
 [🏠Go Back](../README.md)
