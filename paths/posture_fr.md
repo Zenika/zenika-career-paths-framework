@@ -1,134 +1,134 @@
-# Posture path
+# Chemin de posture
 
-## Path breakdown
+## Répartition du chemin
 
-The Posture path focuses on conscious behaviours that can positively impact people around us.
+Le chemin Posture se concentre sur les comportements conscients qui peuvent avoir un impact positif sur les gens qui nous entourent.
 
-_Posture_ might be the most difficult path to explain, as it is largely covered in the literature and the word has so many meanings depending on the authors.
-So we first tried to clarify what we call _Posture_ in our context.
+_Posture_ pourrait être le chemin le plus difficile à expliquer, car il est largement couvert dans la littérature et le mot a tellement de sens selon les auteurs.
+Nous avons donc d'abord essayé de clarifier ce que nous appelons _Posture_ dans notre contexte.
 
-_Posture_ is our ability to use different behavioral techniques to bring a team or an individual to a certain targeted state or to reach a pre-defined objective.
-Over time, the initial plan or the targeted state often change. But any necessary adaptations can also be made consciously with the right timing.
+_Posture_ est notre capacité à utiliser différentes techniques comportementales pour amener une équipe ou un individu à un certain état ciblé ou pour atteindre un objectif prédéfini.
+Au fil du temps, le plan initial ou l'état visé changent souvent. Mais toutes les adaptations nécessaires peuvent également être faites consciemment avec le bon timing.
 
-However, this requires some strong foundation:
-- Ability to listen and learn
-- Ability to teach and explain
-- Ability to empower and contribute
-- Ability to summarize and take decisions
-- Ability to display confidence and comforting authority
+Cependant, cela nécessite des bases solides :
+- Capacité d'écoute et d'apprentissage
+- Capacité à enseigner et à expliquer
+- Capacité à se responsabiliser et à contribuer
+- Capacité de synthèse et de prise de décision
+- Capacité à faire preuve de confiance et d'autorité réconfortante
 
-From an operational standpoint, a _posture_ will usually help us to:
-- Help individuals, teams or organisations to reach a target
-- Get continuous feedback to adjust the posture we use in our operational context
+D'un point de vue opérationnel, une _posture_ nous aidera généralement à :
+- Aider des individus, des équipes ou des organisations à atteindre une cible
+- Obtenir un feedback continu pour ajuster la posture que nous utilisons dans notre contexte opérationnel
 
-## Overview
+## Aperçu
 
-The _posture_ will reflect our ability to have the right behavior, to use the rigth tools at the right moment and with the right persons. The objective is to find a good balance between listening, helping and acting ourselves.
+La _posture_ reflétera notre capacité à avoir le bon comportement, à utiliser les bons outils au bon moment et avec les bonnes personnes. L'objectif est de trouver un bon équilibre entre écouter, aider et agir soi-même.
 
-### Steps overview
+### Présentation des étapes
 
-![Posture steps overview](../images/steps-posture.png)
+![Présentation des étapes de la posture](../images/steps-posture.png)
 
-## Steps Details
+## Étapes Détails
 
-### Doer
+### Acteur
 
-The Doer posture marks the beginning of the path.
+La posture du Doer marque le début du chemin.
 
-Doers are able to:
-- Follow a plan, an order, an idea...
-- Change course in case something goes wrong
-- Inspire action by setting an example
-
-
-### Consultant
-
-Consultants are at the next level. They have the ability to go beyond simple task execution.
-
-They also showcase the following:
-- Ability to communicate clearly with objectives' stakeholders
-- Ability to clarify and challenge needs expressions
-- Ability to identify bottlenecks before they congest a context
-- Ability to propose options or alternatives
+Les pratiquants sont capables de :
+- Suivre un plan, une commande, une idée...
+- Changer de cap en cas de problème
+- Inspirer l'action en donnant l'exemple
 
 
-From this point onward, there are 3 dictinct paths. They overlap each other to some extent, as helping individuals or groups requires some fundamental techniques.
+### Conseillère
+
+Les consultants sont au niveau supérieur. Ils ont la capacité d'aller au-delà de la simple exécution de tâches.
+
+Ils présentent également les éléments suivants :
+- Capacité à communiquer clairement avec les parties prenantes des objectifs
+- Capacité à clarifier et à remettre en question les expressions de besoins
+- Capacité à identifier les goulots d'étranglement avant qu'ils n'engorgent un contexte
+- Capacité à proposer des options ou alternatives
+
+
+A partir de ce point, il y a 3 chemins distincts. Ils se chevauchent dans une certaine mesure, car aider des individus ou des groupes nécessite des techniques fondamentales.
 
 
 ### Mentor
 
-Mentors help others by listening to them, protecting them, making them avoid being in trouble.
-They have what we call a _low posture_.
+Les mentors aident les autres en les écoutant, en les protégeant, en leur évitant d'avoir des ennuis.
+Ils ont ce que nous appelons une _bas posture_.
 
-We can compare them to 'mountain guides', who walk with you, provide you advice, while you are still the owner of the path you choose to follow.
-The guides are there to ensure your success, but they are not accountable for it as they do not control the key parts of your success.
+On peut les comparer à des « guides de montagne », qui marchent avec vous, vous conseillent, alors que vous êtes toujours propriétaire du chemin que vous choisissez de suivre.
+Les guides sont là pour assurer votre succès, mais ils n'en sont pas responsables car ils ne contrôlent pas les éléments clés de votre succès.
 
-As for abilities, Mentors showcase the following:
-- Ability to listen and to question
-- Ability to keep their personal feelings from affecting the mentee(s)
-- Ability to suggest neutral ideas
-- Ability to define the rules and the limits of the provided support
-
-
-### Lecturer and Trainer
-
-Trainers transfer knowledge to trainees.
-They have a _high posture_.
-However, one must remember that good teachers alternate the _Trainer_ posture with the _Mentor_ one during teaching sessions.
-
-Lecturers can still deliver knowledge, but Trainers also have the ability to build training paths adapted to their students.
-
-Trainers then showcase the following:
-- Ability to share, transfer a piece of knowledge
-- Ability to construct a learning path adapted to the trainee(s) needs
-- Ability to adapt the training to the specificities of the audience
+En ce qui concerne les capacités, les mentors présentent les éléments suivants :
+- Capacité d'écoute et de questionnement
+- Capacité à empêcher que leurs sentiments personnels n'affectent le(s) mentoré(s)
+- Capacité à proposer des idées neutres
+- Capacité à définir les règles et les limites de l'accompagnement fourni
 
 
-### Facilitator
+### Conférencier et Formateur
 
-Facilitators (not limited to "agile facilitators") are persons who have the capability to extract the collective knowledge of an individual or a group to find a solution to a problem.
+Les formateurs transmettent les connaissances aux stagiaires.
+Ils ont une _haute posture_.
+Cependant, il ne faut pas oublier que les bons enseignants alternent la posture du _Formateur_ avec celle du _Mentor_ lors des séances d'enseignement.
 
-They also showcase the following:
-- Ability to drive a group
-- Ability to be solution-focused
-- Ability to question
-- Ability to summarize and reformulate ideas / opinions
+Les enseignants peuvent toujours transmettre des connaissances, mais les formateurs ont également la possibilité de construire des parcours de formation adaptés à leurs étudiants.
 
-
-### Coach
-
-Coaches have the ability to consciously use one of the previous postures in order to achieve their goal.
-
-They have the control of their own posture and use it with purpose.
-Having a Coach posture requires a deep awareness of internal motivations: what drives us and what can drive a group of people.
-Going at this level means we have a deep control of our natural behavior. This may generate stress, tiredness or euphory as the job may be both challenging and exciting.
-Warning: burnouts may also happen due to spending too much time on thrilling activities.
-
-The progress in this direction is often guided, as _hypervision_ (progression with peers) or _supervision_ (progression with a mentor) are key enablers of this role.
-
-As for abilities, Coaches showcase the following:
-- Ability to adopt (in real-time) the most suitable posture to reach an objective
-- Ability to explain a situation
-- Ability to find a set of solutions to a problem
-- Ability to ask for help when needed
-- Ability to take care of themselves
+Les formateurs présentent ensuite les éléments suivants :
+- Capacité à partager, transférer un savoir
+- Capacité à construire un parcours d'apprentissage adapté aux besoins du/des stagiaire(s)
+- Capacité à adapter la formation aux spécificités du public
 
 
-### Influencer
+### Facilitateur
 
-As seen with the previous steps, we value the abilities enabling the positive change of behaviours or capabilities of the people around us. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
+Les facilitateurs (non limités aux « facilitateurs agiles ») sont des personnes qui ont la capacité d'extraire les connaissances collectives d'un individu ou d'un groupe pour trouver une solution à un problème.
 
-To that end, Influencers should master:
-- the _logos_ (the logical part of the message, we make sense by leveraging the most relevant arguments)
-- the _ethos_ (the messenger's credibility, we must be confident and honorable)
-- the _pathos_ (the emotional part of the message, we have an emotional impact on the listeners)
-
-Beginners may focus on only one aspect of message communication, but these three parts are equally important.
-
-Moreover, Influencers also showcase the following:
-- Ability to engage people in a path, a change or a transformation
-- Ability to share and explain their firm beliefs
-- Ability to naturally reach consensuses on certain matters
+Ils présentent également les éléments suivants :
+- Capacité à conduire un groupe
+- Capacité à être axé sur les solutions
+- Capacité de questionner
+- Capacité à résumer et à reformuler des idées/opinions
 
 
-[🏠Go Back](../README_fr.md)
+### Entraîneur
+
+Les entraîneurs ont la capacité d'utiliser consciemment l'une des postures précédentes afin d'atteindre leur objectif.
+
+Ils ont le contrôle de leur propre posture et l'utilisent à bon escient.
+Avoir une posture de Coach nécessite une profonde conscience des motivations internes : ce qui nous anime et ce qui peut conduire un groupe de personnes.
+Aller à ce niveau signifie que nous avons un contrôle profond de notre comportement naturel. Cela peut générer du stress, de la fatigue ou de l'euphorie, car le travail peut être à la fois stimulant et passionnant.
+Attention : des burn-outs peuvent également survenir en raison de passer trop de temps sur des activités passionnantes.
+
+La progression dans cette direction est souvent guidée, car l'_hypervision_ (progression avec les pairs) ou la _supervision_ (progression avec un mentor) sont des catalyseurs clés de ce rôle.
+
+En ce qui concerne les capacités, les entraîneurs présentent les éléments suivants :
+- Capacité à adopter (en temps réel) la posture la plus adaptée pour atteindre un objectif
+- Capacité à expliquer une situation
+- Capacité à trouver un ensemble de solutions à un problème
+- Capacité à demander de l'aide en cas de besoin
+- Capacité à prendre soin d'eux-mêmes
+
+
+### Influenceur
+
+Comme vu avec les étapes précédentes, nous valorisons les capacités permettant le changement positif de comportements ou de capabilités des gens qui nous entourent. Ainsi, sur notre chemin, la capacité de partager, de promouvoir un savoir ou une pratique, avec une analyse approfondie de son fonctionnement et de son pourquoi, a un impact significatif.
+
+Pour cela, les Influenceurs doivent maîtriser :
+- les _logos_ (la partie logique du message, on fait sens en s'appuyant sur les arguments les plus pertinents)
+- l'_ethos_ (crédibilité du messager, il faut être confiant et honorable)
+- le _pathos_ (la partie émotionnelle du message, nous avons un impact émotionnel sur les auditeurs)
+
+Les débutants peuvent se concentrer sur un seul aspect de la communication du message, mais ces trois parties sont tout aussi importantes.
+
+De plus, les influenceurs présentent également les éléments suivants :
+- Capacité à engager les gens dans un chemin, un changement ou une transformation
+- Capacité à partager et à expliquer ses convictions
+- Capacité à parvenir naturellement à des consensus sur certains sujets
+
+
+[🏠Retour](../README_fr.md)
