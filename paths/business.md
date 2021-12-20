@@ -18,6 +18,7 @@ All types of businesspersons share common fundamental abilities:
 In order to grow in that path, we designed 3 different levels we thought relevant for any type of Business person:
 - __Opportunity seeker__: is able to listen to the demand and satisfy it
 - __Business Creator__: is able to analyze the demand and satisfy the underlying need
+- __Business Developer__: is able to developp a set of demands and to satisfy the needs according to the customer capacity.
 - __New Market Explorer__: is able to anticipate the demand and create a new need
 
 
@@ -66,6 +67,17 @@ The key abilities of a Business Creator are:
 - Ability to go over the demand to identify the real needs
 - Ability to validate the identified needs
 - Ability to question the expression of the need
+
+### Business Developer
+
+When we meet a requirement we tends to satisfy it the "perfect" way. Satisfying it according the proper cost is a key point.
+Also, being able to cover a large scope of needs/topic is important to help the customer globally and not only on a specific area.
+
+The key abilities of a Business Developer are:
+- Ability to go over the demand to identify the real needs
+- Ability to provide a "Design to cost" solution
+- Ability to help on a large scope
+
 
 ### New Market Explorer
 
