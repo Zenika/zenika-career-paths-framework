@@ -84,8 +84,9 @@ Trainers then showcase the following:
 - Ability to adapt the training to the specificities of the audience
 
 
-### Facilitator
+### Presenter and Facilitator
 
+Presenters have the hability to animate a meeting or a group of personns. They relies on other personns to prepare the meeting planning and the workshop details.
 Facilitators (not limited to "agile facilitators") are persons who have the capability to extract the collective knowledge of an individual or a group to find a solution to a problem.
 
 They also showcase the following:
