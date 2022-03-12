@@ -29,8 +29,8 @@ The above steps require specific skills:
 Let's take a concrete example. A front-end developper, specialized in Angular. Their target is to be able to diagnose front-end systems.
 They have a lot of topics to learn and capabilities to develop:
  - in order to have a global front-end culture, they need to have at least basic practice level in VueJs, React...
- - in order to share their diganosis, they need to develop their ability to synthetize
  - in order to diagnose, they should know how to interview, communicate, facilitate...
+ - in order to share their diganosis, they need to develop their ability to synthetize
  - they should also have in mind that developing their knowledge of DevOps and backend practices will help them understand front-end systems even further
 
 So, it is clearly not a 6 months plan. And defining baby steps, with clear objectives, makes sense.
@@ -65,4 +65,4 @@ Helping people fulfilling their career objectives requires specific skills, such
 - Facilitation,
 - HR guidance,
 - Management.
-All skills can help at different points of time in supoprting one's career path journey.
+All skills can help at different points of time in supporting one's career path journey.
