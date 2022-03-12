@@ -65,4 +65,4 @@ Helping people fulfilling their career objectives requires specific skills, such
 - Facilitation,
 - HR guidance,
 - Management.
-All skills can help at different points of time in supoprting one's career path journey.
+All skills can help at different points of time in supporting one's career path journey.
