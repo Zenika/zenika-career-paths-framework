@@ -2,7 +2,7 @@
 
 ## Path breakdown
 
-The Posture path focuses on conscious behaviours that can positively impact people around us.
+The Posture path focuses on conscious behaviors that can positively impact people around us.
 
 _Posture_ might be the most difficult path to explain, as it is largely covered in the literature and the word has so many meanings depending on the authors.
 So we first tried to clarify what we call _Posture_ in our context.
@@ -23,7 +23,7 @@ From an operational standpoint, a _posture_ will usually help us to:
 
 ## Overview
 
-The _posture_ will reflect our ability to have the right behavior, to use the rigth tools at the right moment and with the right persons. The objective is to find a good balance between listening, helping and acting ourselves.
+The _posture_ will reflect our ability to have the right behavior, to use the right tools at the right moment and with the right people. The objective is to find a good balance between listening, helping and acting ourselves.
 
 ### Steps overview
 
@@ -86,8 +86,8 @@ Trainers then showcase the following:
 
 ### Presenter and Facilitator
 
-Presenters have the hability to animate a meeting or a group of personns. They relies on other personns to prepare the meeting planning and the workshop details.
-Facilitators (not limited to "agile facilitators") are persons who have the capability to extract the collective knowledge of an individual or a group to find a solution to a problem.
+Presenters have the ability to animate a meeting or a group of people. They relies on other people to prepare the meeting planning and the workshop details.
+Facilitators (not limited to "agile facilitators") are people who have the capability to extract the collective knowledge of an individual or a group to find a solution to a problem.
 
 They also showcase the following:
 - Ability to drive a group
@@ -117,7 +117,7 @@ As for abilities, Coaches showcase the following:
 
 ### Influencer
 
-As seen with the previous steps, we value the abilities enabling the positive change of behaviours or capabilities of the people around us. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
+As seen with the previous steps, we value the abilities enabling the positive change of behaviors or capabilities of the people around us. So, in our path, the ability to share, promote a piece of knowledge or a practice, with a deep analysis on how it works and why, has a significant impact.
 
 To that end, Influencers should master:
 - the _logos_ (the logical part of the message, we make sense by leveraging the most relevant arguments)
