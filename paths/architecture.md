@@ -76,7 +76,7 @@ They also showcase the following:
 Platform-scale Architects are builders of frames for units integration.
 They facilitate the assembly of heterogenous units with different needs towards a clearly sought outcome.
 
-Module-scale Architects usually have 5+ years of experience in building systems.
+Platform-scale Architects usually have 5+ years of experience in building systems.
 They also showcase the following:
 - Knowledgeable on the different stakes involved by the sought outcome
 - Good system thinking
@@ -90,7 +90,7 @@ They also showcase the following:
 Program-scale Architects are patterns seekers.
 They rationalize constructions to quicken decision making and change management.
 
-Module-scale Architects usually have 8+ years of experience in building systems.
+Program-scale Architects usually have 8+ years of experience in building systems.
 They also showcase the following:
 - Expertise on trends and best practices
 - Ability to rationalize integrated units within a certain context
