@@ -17,7 +17,7 @@ If there is nothing to build or change, then architects are not needed!
 In our industry, we can meet architects of different types:
 - Digital transformations
 - Organizations
-- Softwares
+- Software
 - Data
 - Businesses
 - Enterprise IT
@@ -33,7 +33,7 @@ But all these types of architects share the same fundamental abilities:
 In order to grow in that path, we designed 4 different scales we thought relevant for any type of architect:
 - __Module__: focus on designing modules - supposedly functioning independently with limited external constraints (e.g. a house)
 - __Platform__: focus on designing platforms - facilitating the assembly of heterogenous units (e.g. a city)
-- __Program__: focus on rationalizing programs - defining principles for systems creations and adaptations (e.g. a urban agglomeration)
+- __Program__: focus on rationalizing programs - defining principles for systems creation and adaptations (e.g. a urban agglomeration)
 - __Company__: focus on (re)defining companies - inducing a sustainable culture to create and adapt systems aligned with the companies' values (e.g. a cultural area)
 
 An Enterprise Architect is therefore not necessarily at the level of a Company-scale Architect.
@@ -74,11 +74,11 @@ They also showcase the following:
 ### Platform-scale Architect
 
 Platform-scale Architects are builders of frames for units integration.
-They facilitate the assembly of heterogenous units with different needs towards a clearly sought outcome.
+They facilitate the assembly of heterogeneous units with different needs towards a clearly sought outcome.
 
 Platform-scale Architects usually have 5+ years of experience in building systems.
 They also showcase the following:
-- Knowledgeable on the different stakes involved by the sought outcome
+- Knowledgeable on the different aspects involved by the sought outcome
 - Good system thinking
 - Ability to formalize architecture decisions and clarify their implications
 - Good written and oral communication skills
